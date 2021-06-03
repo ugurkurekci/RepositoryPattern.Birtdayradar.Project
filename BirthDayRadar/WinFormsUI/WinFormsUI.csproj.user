@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Menu\BirthDayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RehberAdd\AddErrorIcon\AddErrorIcon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RehberAdd\AddIcon\AddIconForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RehberAdd\RehberAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RehberDeleteUpdate\RehberDeleteUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Rehber\RehberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
