@@ -69,9 +69,11 @@
 
   <p>The project was built with a layered architecture. It was developed in accordance with SOLID software development principles.</p>
     
-   We can think of it as a guide to be done in this project. It is a project where a person's record is kept.
-   Name, surname, date of birth, etc. with options like
-   is a database-integrated follow-up project.
+     We can think of it as a guide to be done in this project. It is a project where a person's record is kept.
+     Name, surname, date of birth, etc. with options like
+     is a database-integrated follow-up project.
+    
+    
     
   <h2>Layers</h2>
 <details>
