@@ -104,7 +104,7 @@
   </details>
  <hr/>
   <p>ugurkurekci98@gmail.com</p>
-  https://github.com/ugurkurekci/car-rental-project-NetCore
+   https://github.com/ugurkurekci/birtdayradar-core-project
 
 </div>
 <hr/>
